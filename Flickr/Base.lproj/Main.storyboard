@@ -129,18 +129,14 @@
                             <constraint firstItem="Vc1-62-2JZ" firstAttribute="leading" secondItem="IUe-JL-Y3c" secondAttribute="leading" id="8rr-dh-2lY"/>
                             <constraint firstItem="eYs-Lx-Xpf" firstAttribute="top" secondItem="Vc1-62-2JZ" secondAttribute="bottom" id="Cyd-Og-g3r"/>
                             <constraint firstAttribute="trailing" secondItem="Vc1-62-2JZ" secondAttribute="trailing" id="D6j-OA-KRj"/>
-                            <constraint firstItem="dKE-Lu-Y79" firstAttribute="leading" secondItem="IUe-JL-Y3c" secondAttribute="leading" id="FDz-5h-qyd"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="dKE-Lu-Y79" secondAttribute="trailing" id="LOS-PS-XSG"/>
                             <constraint firstItem="eYs-Lx-Xpf" firstAttribute="top" secondItem="dKE-Lu-Y79" secondAttribute="bottom" id="Nl4-RA-WUN"/>
                             <constraint firstItem="dKE-Lu-Y79" firstAttribute="top" secondItem="J0u-S9-0Yj" secondAttribute="bottom" id="PzL-XZ-7T6"/>
                             <constraint firstItem="eYs-Lx-Xpf" firstAttribute="top" secondItem="dKE-Lu-Y79" secondAttribute="bottom" id="TP7-t7-Eyw"/>
                             <constraint firstItem="dKE-Lu-Y79" firstAttribute="top" secondItem="J0u-S9-0Yj" secondAttribute="bottom" id="UYr-PJ-SLQ"/>
                             <constraint firstItem="eYs-Lx-Xpf" firstAttribute="top" secondItem="Vc1-62-2JZ" secondAttribute="bottom" id="VY5-UM-EbN"/>
-                            <constraint firstAttribute="trailing" secondItem="dKE-Lu-Y79" secondAttribute="trailing" id="WHq-Dw-cht"/>
                             <constraint firstAttribute="trailing" secondItem="dKE-Lu-Y79" secondAttribute="trailing" id="db5-LV-auu"/>
                             <constraint firstItem="dKE-Lu-Y79" firstAttribute="leading" secondItem="IUe-JL-Y3c" secondAttribute="leading" id="fpJ-u8-YbR"/>
                             <constraint firstItem="Vc1-62-2JZ" firstAttribute="leading" secondItem="IUe-JL-Y3c" secondAttribute="leading" id="iXj-7j-iDL"/>
-                            <constraint firstItem="dKE-Lu-Y79" firstAttribute="leading" secondItem="IUe-JL-Y3c" secondAttribute="leadingMargin" id="j0R-lh-n0Q"/>
                             <constraint firstAttribute="trailing" secondItem="Vc1-62-2JZ" secondAttribute="trailing" id="lUS-0B-4L6"/>
                             <constraint firstItem="dKE-Lu-Y79" firstAttribute="top" secondItem="J0u-S9-0Yj" secondAttribute="bottom" id="qDg-tt-A5X"/>
                             <constraint firstItem="Vc1-62-2JZ" firstAttribute="leading" secondItem="IUe-JL-Y3c" secondAttribute="leading" id="zG0-VU-KE2"/>
